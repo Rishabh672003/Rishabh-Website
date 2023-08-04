@@ -34,18 +34,18 @@
         "purple": "#77037B"
     },
     "dark": {
-      "background": "#161130",
-        "foreground": "#37306B",
-        "yellow": "#ffd400",
-        "green": "#A3BE8C",
-        "gray": "#88C0D0",
-        "blue": "#009FBD",
-        "red": "#e61f44",
-        "pink": "#f02afc",
-        "reddish-pink": "#e01969",
-        "orange": "#da9b50",
-        "lblue": "#38c6de",
-        "dpurple": "#261847",
+      "background": "#1e1e2e",
+        "foreground": "#181825",
+        "yellow": "#f9e2af",
+        "green": "#a6e3a1",
+        "gray": "#7f849c",
+        "blue": "#89b4fa",
+        "red": "#f38ba8",
+        "pink": "#f5c2e7",
+        "reddish-pink": "#eba0ac",
+        "orange": "#fab387",
+        "lblue": "#74c7ec",
+        "dpurple": "#11111b",
         "white": "#efefef"
     }
   }
